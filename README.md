@@ -17,5 +17,4 @@ All projects include step-by-step instructions and screenshots to demonstrate ha
 4. [Project 4 – VNet & Subnet](https://github.com/vishnupriya022/Azure-Networking-Virtual-Network-VNet-Subnet)
    Create a virtual network and subnet to organize cloud resources.
 
-5. [Project 5 – Monitor & Alerts](https://github.com/vishnupriya022/Azure-Monitor-Alerts)  
-   Monitor VM metrics, create alerts, and receive notifications.
+
